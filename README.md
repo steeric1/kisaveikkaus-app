@@ -2,7 +2,7 @@
 
 Rekisteröitymiskoodit luodaan tällä hetkellä tiedostoon `data/tokens.txt`, joka siis `.gitignore`ssa. Oikeasti jatkossa sitten tietokantaa. Numero 0/1 koodin jälkeen välilyönnillä erotettuna kertoo, onko koodi käytetty.
 
-Komponentit tarjoaa [shadch-svelte](https://www.shadcn-svelte.com/).
+Komponentit tarjoaa [shadcn-svelte](https://www.shadcn-svelte.com/).
 
 ### Tietokanta
 
